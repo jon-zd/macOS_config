@@ -13,8 +13,6 @@ https://denysdovhan.com/spaceship-prompt/#installing
 Atom
 https://atom.io
 
-
-
 ## Security
 1Password
 https://1password.com/downloads/
@@ -26,7 +24,6 @@ https://www.fleetsmith.com
 Cultured Code Things
 https://culturedcode.com/things/mac/appstore/
 
-Bear
-https://bear.app
-
+Agenda
+https://agenda.com/
 
